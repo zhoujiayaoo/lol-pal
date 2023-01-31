@@ -1,2 +1,4 @@
 /venv
 config_back.ini
+.idea
+__pycache__
